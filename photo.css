@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+}
+
+.box{
+    height: 650px; 
+    width: 1100px;
+    color: whitesmoke;
+    background-color: black;
+    text-align: center;
+    margin: auto;
+}
+
+img{
+    margin-top: 40px;
+}
